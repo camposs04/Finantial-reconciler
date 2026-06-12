@@ -17,7 +17,7 @@ APP_VERSION: Final[str] = "1.0.0"
 # Alterar aqui propaga automaticamente para todo o sistema.
 
 # Planilha do CLIENTE
-CLIENT_ACCOUNT_COL: Final[str] = "Plano de conta nº. 04"
+CLIENT_ACCOUNT_COL: Final[str] = "Cód. Plano de conta nº. 04"
 CLIENT_DEBIT_COL: Final[str] = "Débito"
 CLIENT_CREDIT_COL: Final[str] = "Crédito"
 CLIENT_DATE_COL: Final[str] = "Dt. Movimento"
